@@ -5,4 +5,4 @@
 | <img width="623" src="https://github.com/FrancescoFran/Modeling-and-forecasting-building-energy-consumption/assets/96301982/536b24cb-bf05-4c1a-99c6-c288f68ceb1e">  | <img width="406" src="https://github.com/FrancescoFran/Modeling-and-forecasting-building-energy-consumption/assets/96301982/595d12a9-4a7f-497e-addd-837c8e4dc201"> |
 | ------------- | ------------- |
 
-<p align="justify">The objective of the project is the modeling and prediction of the CO2 emissions and total energy consumption of non-household buildings of Seattle city based on previous measurement campaign </p>
+<p align="justify">The objective of the project is the modeling for prediction of the CO2 emissions and total energy consumption of non-household buildings of Seattle city based on previous measurement campaign </p>
